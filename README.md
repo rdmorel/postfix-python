@@ -25,8 +25,4 @@ Your language should have the following functionality:
 
 8. EXTRA: You might extend your language with pop, dup, swap commands that remove the top item on the stack, duplicate the top item on the stack, and swap the top two items on the stack, respectively.
 
-Submit two files:
-
-1. Your interpreter
-
-2. An example program using all your language’s features.
+Create a simple interpreter for your postfix programming language.
